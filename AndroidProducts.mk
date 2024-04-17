@@ -1,7 +1,7 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_ice.mk
+    $(LOCAL_DIR)/everest_ice.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_ice-user \
-    derp_ice-userdebug \
-    derp_ice-eng
+    everest_ice-user \
+    everest_ice-userdebug \
+    everest_ice-eng
