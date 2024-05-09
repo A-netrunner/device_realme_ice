@@ -18,6 +18,10 @@ $(call inherit-product, vendor/pixelstar/config/common_full_phone.mk)
 TARGET_FACE_UNLOCK_SUPPORTED := true
 TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_SUPPORTS_NEXT_GEN_ASSISTANT := true
+TARGET_SUPPORTS_QUICK_TAP  := true
+TARGET_INCLUDE_LIVE_WALLPAPERS := true
+USE_PIXEL_CHARGER := true
+PIXELSTAR_BUILD_TYPE := official
 
 #Bootanimation
 TARGET_BOOT_ANIMATION_RES := 1080
