@@ -1,6 +1,6 @@
-# DevInfinix's Redesigned Device Tree for Derpfest14 (realme 9 Speed Edition - rmx3461) 
+# Redesigned Device Tree for RMX3461
 
-This repository provides a meticulously crafted device tree for the realme 9 Speed Edition (rmx3461), specifically designed to be integrated with the Derpfest14 custom ROM. 
+This repository provides a meticulously crafted device tree for the realme 9 Speed Edition (RMX3461), specifically designed to be integrated with the Derpfest14 custom ROM. 
 
 **Key Features:**
 
