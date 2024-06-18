@@ -12,7 +12,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, device/realme/ice/device.mk)
 
 # Inherit some common stuff.
-$(call inherit-product, vendor/pixelstar/config/common_full_phone.mk)
+$(call inherit-product, vendor/derp/config/common_full_phone.mk)
 
 # Environment Flags
 TARGET_FACE_UNLOCK_SUPPORTED := true
@@ -20,13 +20,11 @@ TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_SUPPORTS_NEXT_GEN_ASSISTANT := true
 TARGET_SUPPORTS_QUICK_TAP  := true
 TARGET_INCLUDE_LIVE_WALLPAPERS := true
-USE_PIXEL_CHARGER := true
-PIXELSTAR_BUILD_TYPE := official
 
 #Bootanimation
 TARGET_BOOT_ANIMATION_RES := 1080
 
-PRODUCT_NAME := pixelstar_ice
+PRODUCT_NAME := derp_ice
 PRODUCT_DEVICE := ice
 PRODUCT_MANUFACTURER := realme
 PRODUCT_BRAND := realme
