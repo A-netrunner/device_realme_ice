@@ -1,4 +1,4 @@
-![Banner](https://cdn.discordapp.com/attachments/1046741210909380698/1252755969029574717/SKB6iLmN.jpg?ex=66735f6a&is=66720dea&hm=974a788dac5a70758ac8d3c40e30286d57d64a7cd55da775b970cd5fd4552ca4&)
+![Banner](https://raw.githubusercontent.com/DevInfinix/android-roms-build-scripts/14-derp-bleeding-edge/infinix-andronix-banner-1-landscape.jpg)
 <h1 align="center"><strong>Redesigned Device Tree for RMX3461</strong></h1>
 
 <a href="https://sourceforge.net/projects/rmx3461-bleeding-edge/files/latest/download"><img alt="Download RMX3461 Bleeding Edge ROMs (Realme 9 SE)" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x" align="centre"></a>
