@@ -35,10 +35,6 @@ This repository provides a newly crafted fork of device tree for the realme 9 Sp
 
 - The Derpfest14 development team for their outstanding custom ROM.
 - The Android Open Source Project (AOSP) for providing the foundation for Android development.
-- @abhay4721 for the device trees (this project is an active fork of abhayabhi's repo)
-
-**Join the Discussion:**
-
-- (Provide links to relevant forums or communities for Derpfest14 or custom ROM development)
+- [@itsXRP](https://t.me/itsXRP) for the device trees (this project is an active fork of their repo)
 
 **Enjoy a Derpfest14 experience that's perfectly optimized for your realme 9 Speed Edition!** 
