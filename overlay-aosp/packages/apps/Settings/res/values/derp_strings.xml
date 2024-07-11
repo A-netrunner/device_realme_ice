@@ -14,5 +14,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
      <string name="maintainer_name">DevInfinix</string>
+     <string name="maintainer_telegram" translatable="false">https://www.thesamstudios.tech</string>
 
 </resources>
