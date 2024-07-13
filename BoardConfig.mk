@@ -12,6 +12,9 @@ DEVICE_PATH := device/realme/ice
 # Display
 TARGET_SCREEN_DENSITY := 480
 
+# Broken Modules Fix
+BUILD_BROKEN_MISSING_REQUIRED_MODULES := true
+
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/oplus/RMX3461
 
