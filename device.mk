@@ -51,9 +51,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
 
-# Camera
-$(call inherit-product-if-exists, vendor/oplus/camera/opluscamera.mk)
-
 # Inherit from the common OEM chipset makefile.
 $(call inherit-product, device/oneplus/sm8350-common/common.mk)
 
