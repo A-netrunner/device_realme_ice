@@ -49,7 +49,8 @@ PRODUCT_PACKAGES += \
 
 # Additional FOSS Applications
 PRODUCT_PACKAGES += \
-    ViMusic
+    ViMusic \
+    Droid-ify
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
