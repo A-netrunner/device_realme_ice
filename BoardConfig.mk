@@ -12,9 +12,6 @@ DEVICE_PATH := device/realme/ice
 # Display
 TARGET_SCREEN_DENSITY := 480
 
-# Broken Modules Fix
-BUILD_BROKEN_MISSING_REQUIRED_MODULES := true
-
 # Enable UFFD GC
 OVERRIDE_ENABLE_UFFD_GC := true
 
