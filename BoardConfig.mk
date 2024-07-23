@@ -12,9 +12,6 @@ DEVICE_PATH := device/realme/ice
 # Display
 TARGET_SCREEN_DENSITY := 480
 
-# Enable UFFD GC
-OVERRIDE_ENABLE_UFFD_GC := true
-
 # Kernel
 TARGET_KERNEL_SOURCE := kernel/oplus/RMX3461
 TARGET_KERNEL_CLANG_VERSION := r498229b
