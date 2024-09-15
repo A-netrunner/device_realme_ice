@@ -47,6 +47,11 @@ PRODUCT_PACKAGES += \
     OPlusSettingsProviderResTarget.Q3s \
     OPlusSystemUIResTarget
 
+# Additional FOSS Applications
+PRODUCT_PACKAGES += \
+    ViMusic \
+    Droid-ify
+
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH)
